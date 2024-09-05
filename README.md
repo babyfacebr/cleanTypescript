@@ -1,1 +1,1 @@
-# cleanTypescript
+# Clean Architecture & Typescript
