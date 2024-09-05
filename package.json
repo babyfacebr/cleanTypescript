@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/babyfacebr/cleanTypescript/issues"
   },
-  "homepage": "https://github.com/babyfacebr/cleanTypescript#readme"
+  "homepage": "https://github.com/babyfacebr/cleanTypescript#readme",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
+  }
 }
